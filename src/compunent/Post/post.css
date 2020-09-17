@@ -1,0 +1,25 @@
+.card{
+    width: 30%;
+    float: left;
+    height: 250px;
+    overflow: auto;
+    display: block;
+    margin:0.5%;
+    padding: 1%;
+    border-radius: 10px;
+    background-color:#415457;
+    color: white;
+    box-shadow: 0px 0px 15px black;
+    
+}
+.more-btn{
+   padding: 10px;
+   background-color: rgb(163, 163, 163);
+   border:none;
+   color: white;
+   border-radius: 5px;
+}
+.more-btn:hover{
+    background-color:green;
+    box-shadow: 0px 0px 10px black;
+}
